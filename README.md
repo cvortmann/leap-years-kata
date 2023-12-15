@@ -17,9 +17,4 @@ it is also divisible by 400.
 For example, 2001 is a typical common year and 1996 is a typical leap year, whereas 1900 is an
 atypical common year and 2000 is an atypical leap year.
 
-## Run all tests from the terminal
-
-    ./gradlew clean check
-
-
 [tddGuided]: https://www.youtube.com/watch?v=OhT0_Xg-vZU&t=370s
